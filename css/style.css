@@ -1,0 +1,52 @@
+.logo
+{
+    width: 60px;
+    height: 60px;
+}
+.nav-item
+{
+    color: black;
+    font-size: 22px;
+}
+.nav-link:hover 
+{
+    color: rgb(253, 77, 13)!important;
+}
+.redcol
+{
+    color:red 
+}
+
+
+.hero-para-text
+{
+    font-weight: 600;
+    font-size: 20px;
+}
+.my-btn
+{
+    color:red !important;
+    background-color: white !important;
+    border-color: red !important;
+}
+.my-btn:hover
+{
+    background-color: coral!important;
+    border-color: white!important;
+}
+.card-img
+{
+    width: 100%;
+    height:200px ;
+    padding: 5%;: ;
+}
+.product
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    
+
+}
